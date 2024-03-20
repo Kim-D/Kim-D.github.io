@@ -1,0 +1,1 @@
+import{_ as c}from"./BarcodeReader.vue.b797d3e9.js";import{f as n,o as a,j as r}from"./entry.bf64b599.js";import"./index.6949dd38.js";const p=n({__name:"barcode",setup(t){function e(o){console.log("====== good decoded - ",o)}return(o,d)=>(a(),r(c,{onDecoded:e}))}});export{p as default};

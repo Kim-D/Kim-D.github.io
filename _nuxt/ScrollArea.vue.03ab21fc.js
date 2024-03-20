@@ -1,0 +1,1 @@
+import{f as o,o as r,c as t,v as s}from"./entry.bf64b599.js";const l={class:"overflow-scroll w-full"},_=o({inheritAttrs:!0,__name:"ScrollArea",setup(n){return(e,a)=>(r(),t("div",l,[s(e.$slots,"default")]))}});export{_};

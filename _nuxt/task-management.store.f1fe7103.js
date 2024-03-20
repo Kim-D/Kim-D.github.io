@@ -1,0 +1,1 @@
+import{X as m,r,h as k}from"./entry.bf64b599.js";import{a as l}from"./index.eebf9e91.js";const d=m("task-management",()=>{const t=r([]),e=l("taskId",null),n=k(()=>e.value?u(e.value):null),a=r({});function s(){}function u(o){return t.value.find(c=>c.taskId===o)??null}return{taskItems:t,currentTask:n,currentTaskDetail:a,fetchWorkItems:s}});export{d as u};

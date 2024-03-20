@@ -1,0 +1,1 @@
+import{_ as o,o as _,c as s,v as t}from"./entry.bf64b599.js";const c={},n={class:"k-box"};function r(e,a){return _(),s("div",n,[t(e.$slots,"default",{},void 0,!0)])}const l=o(c,[["render",r],["__scopeId","data-v-11217b79"]]);export{l as B};
